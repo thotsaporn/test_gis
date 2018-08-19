@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"geometry":{"type":"Point","coordinates":[42.40047,-71.2577]},"properties":{"name":"1","type":"Waltham, MA"}},{"geometry":{"type":"Point","coordinates":[42.99019,-71.46259]},"properties":{"name":"2","type":"Manchester, NH"}},{"geometry":{"type":"Point","coordinates":[-96.75724,32.90977]},"properties":{"name":"3","type":"TI Blvd, TX"}}]}
